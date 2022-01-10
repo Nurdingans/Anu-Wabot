@@ -121,7 +121,7 @@ const welkom = JSON.parse(fs.readFileSync('./src/welkom.json'))
 const nsfw = JSON.parse(fs.readFileSync('./src/nsfw.json'))
 const chatban = JSON.parse(fs.readFileSync('./src/banchat.json'))
 prefix = `z`
-botname = 'Zbin-wabot'
+botname = 'TzyDinBot'
 blocked = []
 
 function kyun(seconds){
